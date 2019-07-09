@@ -1,0 +1,3 @@
+pydf
+lscpu
+free -m
